@@ -1,5 +1,5 @@
 # Action Model
----
+
 ## Overview
 Action Model is a FastAPI-based application that interacts with an LLM (GPT-4o-mini) to generate, validate, and execute Bash commands in a controlled environment. The system uses LangGraph for state management and Docker for script execution.
 
